@@ -117,7 +117,7 @@ echo "[ 3/4] [###------]"
 tput cup 15 5
 echo "-> download BOSWatch..................."
 
-git clone https://github.com/Schrolli91/BOSWatch $boswatchpath
+git clone https://github.com/timniklas/BOSWatch $boswatchpath
 
 # Blacklist DVB-Drivers
 tput cup 13 15
